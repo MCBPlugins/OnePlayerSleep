@@ -1,0 +1,7 @@
+name: OnePlayerSleep
+main: MCBPlugins\OnePlayerSleep\Main
+version: 1.0.0
+api: [3.14.2]
+load: POSTWORLD
+author: MCBPlugins
+description: No need to wait for other to sleep!
